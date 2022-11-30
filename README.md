@@ -1,3 +1,5 @@
 # Knight
-Optimised VRM Box 3D Model
+Optimised! VRM Box 3D Model
+
 No face just simple box eyes...
+Full Rigged hands, legs , spine and head... 
